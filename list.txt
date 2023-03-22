@@ -1,16 +1,16 @@
 HTML✅
 CSS✅
 JavaScript✅
-Sass
-Bootstrap
-React✅
-React Router
-TypeScript
-styled-components
-Tailwind CSS
-React Hook Form
-UX Design
-Radix UI
-Storybook
-Cypress
-Next.js
+Sass❌
+Bootstrap❌
+React✅❌
+React Router❌
+TypeScript❌
+styled-components❌
+Tailwind CSS❌
+React Hook Form❌
+UX Design❌
+Radix UI❌
+Storybook❌
+Cypress❌
+Next.js❌
