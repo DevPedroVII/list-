@@ -1,13 +1,13 @@
-HTML
-CSS
-JavaScript
+HTML✅
+CSS✅
+JavaScript✅
 Sass
 Bootstrap
-React
+React✅
 React Router
 TypeScript
 styled-components
- Tailwind CSS
+Tailwind CSS
 React Hook Form
 UX Design
 Radix UI
