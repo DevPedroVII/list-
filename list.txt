@@ -3,7 +3,7 @@ CSS✅
 JavaScript✅
 Sass❌
 Bootstrap❌
-React✅❌
+React✅ - ❌
 React Router❌
 TypeScript❌
 styled-components❌
