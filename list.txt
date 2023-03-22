@@ -10,7 +10,7 @@ styled-components❌ -https://styled-components.com/
 Tailwind CSS❌- https://tailwindcss.com/
 React Hook Form❌ - https://react-hook-form.com/
 UX Design❌ - https://www.coursera.org/professional-certificates/google-ux-design
-Radix UI❌
-Storybook❌
+Radix UI❌ - https://www.radix-ui.com/
+Storybook❌ - https://storybook.js.org/
 Cypress❌
 Next.js❌
