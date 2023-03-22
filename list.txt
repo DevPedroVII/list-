@@ -1,9 +1,9 @@
-HTML✅
-CSS✅
-JavaScript✅
-Sass❌
-Bootstrap❌
-React✅ - ❌
+HTML✅-https://html.com/
+CSS✅-https://web.dev/learn/css/
+JavaScript✅ -https://javascript.info/
+Sass❌ - https://www.salesforce.com/br/saas/#:~:text=SaaS%2C%20ou%20Software%20as%20a,a%20conex%C3%A3o%20com%20a%20internet.
+Bootstrap❌ - https://getbootstrap.com/
+React✅ - https://react.dev/learn/tutorial-tic-tac-toe
 React Router❌
 TypeScript❌
 styled-components❌
