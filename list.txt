@@ -13,6 +13,9 @@ UX Design❌ - https://www.coursera.org/professional-certificates/google-ux-desi
 Radix UI❌ - https://www.radix-ui.com/
 Storybook❌ - https://storybook.js.org/
 Cypress❌ - https://www.cypress.io/
-Next.js❌ - https://nestjs.com
+Next.js❌ - https://nestjs.com/
+
+fmaskijgihan,
+
 
 
